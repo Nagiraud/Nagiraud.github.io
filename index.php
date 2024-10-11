@@ -7,7 +7,11 @@
   <script src="script.js"></script>
 </head>
 <body>
-  <p>Bjour</p></br>
+
+  <?php require "entete.php"?>
+  <div class="case1">
+    <p>Bjour</p></br>
+  </div>
   
 </body>
 </html>
