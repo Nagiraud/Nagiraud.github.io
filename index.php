@@ -11,7 +11,7 @@
   <?php require "entete.php"?>
   <div class="case1">
       <p>Bjour</p></br>
-      <p>Portfolio</p><
+      <p>Portfolio</p>
   </div>
   
 </body>
