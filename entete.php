@@ -1,7 +1,7 @@
 
 <div id="entete">
     <div id="entete_left"> 
-        <p>Voici une entete</p>
+        <p></p>
     </div>
     <div id="entete_center"> 
         <p>Portfolio</p>
